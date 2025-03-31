@@ -26,7 +26,7 @@
 
 ###
 
-<h5 align="left">I'm from brazil and i'm 18 years old <br><br>- 🔭 I’m working as automotive electrician<br>- 📚 I'm currently learning fullstack</h5>
+<h5 align="left">I'm from brazil and i'm 18 years old <br><br>- 🔭 I’m working as automotive <br>electrician<br>- 📚 I'm currently learning english<br>- 📚 I'm currently learning fullstack</h5>
 
 ###
 

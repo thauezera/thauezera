@@ -43,14 +43,6 @@ Outside of technology, I enjoy cars, gaming, and everything related to computing
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdriNzzz&show_icons=true&theme=dark"/>
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">

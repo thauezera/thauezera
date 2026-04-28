@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.postimg.cc/WbVBfFMR/banner.png" />
+<img width="100%" src="./banner-thaue.png" />
 
 <h1 align="center">Thaue Kleber de Oliveira</h1>
 

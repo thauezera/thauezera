@@ -46,7 +46,11 @@ Outside of technology, I enjoy cars, gaming, and everything related to computing
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://github.com/AdriNzzz">
-    <img src="https://img.shields.io/badge/GitHub-Thaue-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/thauezera">
+    <img src="https://img.shields.io/badge/GitHub-thauezera-181717?style=for-the-badge&logo=github"/>
+  </a>
+  
+  <a href="https://instagram.com/thauekleber">
+    <img src="https://img.shields.io/badge/Instagram-@thauekleber-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>

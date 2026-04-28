@@ -1,53 +1,62 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img width="100%" src="https://i.postimg.cc/WbVBfFMR/banner.png" alt="Banner"/>
 
-###
+<h1 align="center">Thaue Kleber de Oliveira</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/thaue-oliveira-84b76a321/?trk=opento_sprofile_topcard" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<h3 align="center">
+  Systems Analyst and Developer | Fullstack Developer
+</h3>
 
-###
+<p align="center">
+  <i>Brazil 🇧🇷 • 19 years old • Self-taught developer</i>
+</p>
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<h5 align="left">I'm from brazil and i'm 18 years old <br><br>- 🔭 I’m working as automotive <br>electrician<br>- 📚 I'm currently learning english<br>- 📚 I'm currently learning fullstack</h5>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+---
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+
+### 👋 About Me
+
+I'm Thaue Kleber de Oliveira, a 19-year-old developer from Brazil, passionate about systems and software development.
+
+- 🔭 Working as a **Systems Implementation Technician**  
+- 📚 Currently learning **English**  
+- 📚 Studying **Fullstack Development**  
+
+I have experience with Front-end, Back-end, and general software development, with a strong self-taught background.
+
+Outside of technology, I enjoy cars, gaming, and everything related to computing. I'm always working and studying whenever I can to improve my skills.
+
 </div>
 
-###
+---
+
+<h2 align="left">🦾 Skills</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+  <img src="https://skillicons.dev/icons?i=py" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="55"/>
+  <img src="https://cdn.simpleicons.org/confluence/172B4D" height="55"/>
+</div>
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdriNzzz&show_icons=true&theme=dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriNzzz&layout=compact&theme=dark"/>
+</div>
+
+---
+
+<h2 align="left">🔥 Activity</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AdriNzzz&theme=dark"/>
+</div>

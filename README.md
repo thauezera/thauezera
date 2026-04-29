@@ -1,4 +1,4 @@
-<img width="100%" src="./banner-thaue.png" />
+<img width="100%" src="./WhatsApp Image 2026-04-28 at 6.22.11 PM.jpeg" />
 
 <h1 align="center">Thaue Kleber de Oliveira</h1>
 
